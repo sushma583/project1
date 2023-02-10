@@ -8,4 +8,9 @@ a = int(input("enter a number"))
 
 # this si just a comment
 
-     
+# Added a new comment
+
+a = 10
+b = 15
+sum = a+b
+print(sum)     
