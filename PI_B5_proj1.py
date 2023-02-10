@@ -5,3 +5,7 @@ a = int(input("enter a number"))
      print("number is even")
  else:
      print("number is add")
+
+# this si just a comment
+
+     
